@@ -1,0 +1,149 @@
+* {
+    margin: 30px;
+    padding: 0;
+}
+
+#main-header {
+    width: 100%;
+    font: 16px, sans-serif;
+    background-color: white;
+    text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(19, 46, 77);
+    margin: 1px;
+}
+
+.navigate ul {
+    list-style-type: none;
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    box-sizing: border-box;
+    border-top-style: solid;
+    border-top-color: green;
+    margin: 5px;
+}
+
+.navigate li {
+    display: inline-block;
+    margin: 5px;
+}
+
+.navigate a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 10px;
+    margin: 5px;
+}
+
+#main-image {
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+    margin: 10px;
+}
+
+.main {
+    width: 100%;
+    box-sizing: border-box;
+    height: auto;
+    display: inline-flex;
+    margin: 10px;
+}
+
+.box1 {
+    box-sizing: border-box;
+    width: 33.3%;
+    height: auto;
+}
+
+#side-img {
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    width: 33.3%;
+    padding: 10px;
+    background-color: gray;
+    border: solid, black;
+}
+
+.wrap {
+    width: 33.3%;
+    padding: 10px;
+    color: white;
+    border: solid, black;
+    background-color: rgb(19, 46, 77);
+}
+
+.box2 {
+    width: 100%;
+    height: auto;
+    display: inline-flex;
+}
+
+.subscribe {
+    background-color: bisque;
+    width: 70%;
+    height: auto;
+}
+
+#my-button {
+    color: white;
+    background-color: black;
+}
+
+.accommodation {
+    border-style: solid;
+    border-color: bisque;
+    width: 30%;
+    height: auto;
+    align-content: center;
+}
+
+.accommodation p {
+    text-align: center;
+}
+
+.box3 {
+    width: 100%;
+    height: auto;
+    color: white;
+    display: inline-flex;
+    margin-top: 5px;
+}
+
+.test {
+    width: 50%;
+    height: auto;
+    background-color: rgb(19, 46, 77);
+    padding: 10px;
+    text-align: center;
+}
+
+.part {
+    width: 50%;
+    height: auto;
+    background-color: rgb(19, 46, 77);
+    text-align: center;
+    padding: 10px;
+}
+
+.footer ul {
+    list-style: none;
+    text-align: center;
+    background-color: gray;
+    width: 100%;
+}
+
+.footer a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+}
